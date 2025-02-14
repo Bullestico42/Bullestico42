@@ -3,7 +3,7 @@
 **🍕 i literally live for pizza :3 🍕**
 
 ## Im Wisard
-<img src="https://media1.tenor.com/m/DwiFL0y9Vn4AAAAd/wizard-wizard-cat.gif" width="300">
+<img src="https://media1.tenor.com/m/DwiFL0y9Vn4AAAAd/wizard-wizard-cat.gif" width="400">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aless.pscp) 
