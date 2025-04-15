@@ -19,6 +19,7 @@
 
 ### 🛠️ Technologies & Outils
 
+![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=fff)
