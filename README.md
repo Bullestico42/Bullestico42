@@ -13,7 +13,7 @@
 
 - 🎓 Je suis un jeune développeur passionné par l'informatique actuellement étudiant à 42Lausanne
 - 🌱 Je suis en train d'apprendre le **CSS**
-- 🚀 Je travaille actuellement sur **minishell**
+- 🚀 Je travaille actuellement sur <a href="https://github.com/daniel149afonso/minishell">minishell</a>
 
 ---
 
