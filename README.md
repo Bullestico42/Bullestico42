@@ -19,12 +19,7 @@
 
 ### 🛠️ Technologies & Outils
 
-![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=fff)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+[![My Skills](https://skillicons.dev/icons?i=arduino,html,css,bash,c,cpp,git,github,vscode,sketchup,linux,mint)](https://skillicons.dev)
 
 ---
 
