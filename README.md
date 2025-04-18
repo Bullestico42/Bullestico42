@@ -19,7 +19,7 @@
 
 ### 🛠️ Technologies & Outils
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,html,css,bash,c,cpp,git,github,vscode,sketchup,linux,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,html,js,css,bash,c,cpp,git,github,vscode,sketchup,linux,mint,flutter&perline=7)](https://skillicons.dev)
 
 ---
 
