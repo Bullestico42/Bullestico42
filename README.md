@@ -9,21 +9,21 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+###  À propos de moi
 
-- 🎓 Je suis un jeune développeur passionné par l'informatique actuellement étudiant à 42Lausanne
-- 🌱 Je suis en train d'apprendre le développement de mini jeu-vidéo sur **Unity**
-- 🚀 Je travaille actuellement sur <a href="https://github.com/daniel149afonso/minishell">minishell</a>
+-  Je suis un jeune développeur passionné par l'informatique actuellement étudiant à 42Lausanne
+-  Je suis en train d'apprendre le développement de mini jeu-vidéo sur **Unity**
+-  Je travaille actuellement sur <a href="https://github.com/daniel149afonso/minishell">minishell</a>
 
 ---
 
-### 🛠️ Technologies & Outils
+### Technologies & Outils
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,html,js,css,bash,c,cpp,git,github,vscode,sketchup,linux,mint,flutter&perline=7)](https://skillicons.dev)
 
 ---
 
-### 📈 Mes Stats GitHub
+### Mes Stats GitHub
 
 ![Tes Stats](https://github-readme-stats.vercel.app/api?username=Bullestico42&show_icons=true&theme=tokyonight)
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Bullestico42&layout=compact&theme=tokyonight)
