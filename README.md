@@ -12,8 +12,8 @@
 ###  À propos de moi
 
 -  Je suis un jeune développeur passionné par l'informatique actuellement étudiant à 42Lausanne
--  Je suis en train d'apprendre le développement de mini jeu-vidéo sur **Unity**
--  Je travaille actuellement sur <a href="https://github.com/daniel149afonso/minishell">minishell</a>
+-  Healing myself() with C;
+-  Je travaille actuellement sur <a href="https://github.com/Bullestico42/Cub3D">Cub3D</a>
 
 ---
 
