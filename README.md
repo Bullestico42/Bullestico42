@@ -13,7 +13,8 @@
 
 -  Je suis un jeune développeur passionné par l'informatique actuellement étudiant à 42Lausanne
 -  Je travaille actuellement sur <a href="https://github.com/Bullestico42/Cub3D">Cub3D</a>
--      Healing_myself() with C;
+
+        healing_myself() with C;
 
 ---
 
