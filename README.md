@@ -3,28 +3,31 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alessio-piscopo-087433172/">LinkedIn</a> •
-  <a href="mailto:alessiopiscopo0@outlook.com">Email</a>
+  𝑴𝒆 𝒄𝒐𝒏𝒕𝒂𝒄𝒕𝒆𝒓
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessio-piscopo-087433172/">LinkedIn</a> | 
+  <a href="mailto:alessiopiscopo0@outlook.com">Mail</a>
 </p>
 
 ---
 
-###  À propos de moi
+##  Moi même:
 
--  Je suis un jeune développeur passionné par l'informatique actuellement étudiant à 42Lausanne
--  Je travaille actuellement sur <a href="https://github.com/Bullestico42/Cub3D">Cub3D</a>
-
-        healing_myself() with C;
-
----
-
-### Technologies & Outils
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,html,js,css,bash,c,cpp,git,github,vscode,sketchup,linux,mint,flutter&perline=7)](https://skillicons.dev)
+-  Je suis un jeune développeur passionné par l'informatique étudiant à 42Lausanne.
+-  Premier Jeu vidéo fais entierement sur Unity en C# (FT_G4M3S): <a href="https://github.com/Bullestico42/N-Taverns">N-Taverns</a>.
+-  script marrant à éxecuter dans bash/zsh: <a href="https://bullestico42.github.io/SHFolio/">fun.sh</a>.
 
 ---
 
-### Mes Stats GitHub
+## Technologies et Outils:
+
+Appris au cours mes formations et par curiosité.
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,html,css,bash,c,cpp,git,github,vscode,sketchup,linux,mint&perline=7)](https://skillicons.dev)
+
+---
+
+## Mes Stats:
 
 ![Tes Stats](https://github-readme-stats.vercel.app/api?username=Bullestico42&show_icons=true&theme=tokyonight)
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Bullestico42&layout=compact&theme=tokyonight)
